@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ZeScan Barcode</string>
+    <string name="title_activity_main">ZeScan Barcode</string>
+    <string name="package_name">com.zeppelinlabs.zescanbarcode</string>
+    <string name="custom_url_scheme">com.zeppelinlabs.zescanbarcode</string>
+</resources>
